@@ -18,3 +18,5 @@ while True:
         saldo = saldo + deposito
         print(f"seu saldo agora é:{saldo}")
         break
+    else:
+        print("codigo invalido")
